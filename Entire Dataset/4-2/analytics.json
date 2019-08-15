@@ -1,0 +1,11 @@
+{
+  "modifications" : {
+    "class jobgen.obfuscation.l3.MoveKnownFieldAssignmentToInitialiser" : 0,
+    "class jobgen.obfuscation.l3.VariableDeclarationAssignDefaultValue" : 35,
+    "class jobgen.obfuscation.l3.StandardiseVariableDeclarationsAtMethodStart" : 29,
+    "class jobgen.obfuscation.l3.RearrangeMemberDeclarations" : 12,
+    "class jobgen.obfuscation.util.SwitchToIfFilter" : 0,
+    "class jobgen.obfuscation.l6.ReplaceStaticMethodWithStaticImportFilter" : 25,
+    "class jobgen.obfuscation.l6.AddBracketsToExpressionFilter" : 0
+  }
+}

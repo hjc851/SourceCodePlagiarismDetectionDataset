@@ -1,0 +1,10 @@
+{
+  "modifications" : {
+    "class jobgen.obfuscation.l2.DeclarationTypeNameQualifierDequalifier" : 221,
+    "class jobgen.obfuscation.l3.SynchroniserObfuscator" : 85,
+    "class jobgen.obfuscation.l3.StandardiseVariableDeclarationsAtMethodStart" : 38,
+    "class jobgen.obfuscation.l4.BlockExtractor" : 9,
+    "class jobgen.obfuscation.l5.CombinedAssignmentExpanderFilter" : 9,
+    "class jobgen.obfuscation.l6.ReplaceStaticFieldWithStaticImportFilter" : 29
+  }
+}

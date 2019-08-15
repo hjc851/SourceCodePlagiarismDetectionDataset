@@ -1,0 +1,9 @@
+{
+  "modifications" : {
+    "class jobgen.obfuscation.l3.SynchroniserObfuscator" : 52,
+    "class jobgen.obfuscation.l5.IncDecExpanderFilter" : 0,
+    "class jobgen.obfuscation.l5.ReplaceConstantWithVariableFilter" : 66,
+    "class jobgen.obfuscation.l6.ReplaceStaticFieldWithStaticImportFilter" : 18,
+    "class jobgen.obfuscation.l6.ReplaceStaticMethodWithStaticImportFilter" : 24
+  }
+}

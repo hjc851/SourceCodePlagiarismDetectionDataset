@@ -1,0 +1,9 @@
+{
+  "modifications" : {
+    "class jobgen.obfuscation.l2.DeclarationTypeNameQualifierDequalifier" : 82,
+    "class jobgen.obfuscation.l3.ChangeAccessModifiers" : 43,
+    "class jobgen.obfuscation.util.SwitchToIfFilter" : 1,
+    "class jobgen.obfuscation.l5.ReplaceConstantWithVariableFilter" : 66,
+    "class jobgen.obfuscation.l6.ReplaceStaticMethodWithStaticImportFilter" : 24
+  }
+}

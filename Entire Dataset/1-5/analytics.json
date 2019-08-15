@@ -1,0 +1,10 @@
+{
+  "modifications" : {
+    "class jobgen.obfuscation.l2.DeclarationTypeNameQualifierDequalifier" : 221,
+    "class jobgen.obfuscation.l3.RearrangeMemberDeclarations" : 20,
+    "class jobgen.obfuscation.l4.BlockExtractor" : 9,
+    "class jobgen.obfuscation.util.SwitchToIfFilter" : 0,
+    "class jobgen.obfuscation.l5.ReplaceConstantWithVariableFilter" : 138,
+    "class jobgen.obfuscation.l6.ReplaceStaticMethodWithStaticImportFilter" : 9
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "modifications" : {
+    "class jobgen.obfuscation.l3.MoveKnownFieldAssignmentToInitialiser" : 0,
+    "class jobgen.obfuscation.l3.SynchroniserObfuscator" : 47,
+    "class jobgen.obfuscation.l4.BlockExtractor" : 24,
+    "class jobgen.obfuscation.util.SwitchToIfFilter" : 0,
+    "class jobgen.obfuscation.l5.CombinedAssignmentExpanderFilter" : 2,
+    "class jobgen.obfuscation.l5.ForToWhileLoopFilter" : 3,
+    "class jobgen.obfuscation.l5.ReplaceConstantWithVariableFilter" : 92
+  }
+}

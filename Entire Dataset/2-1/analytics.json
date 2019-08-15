@@ -1,0 +1,12 @@
+{
+  "modifications" : {
+    "class jobgen.obfuscation.l3.DeclareRedundantConstants" : 63,
+    "class jobgen.obfuscation.l3.VariableDeclarationAssignDefaultValue" : 36,
+    "class jobgen.obfuscation.l3.StandardiseVariableDeclarationsAtMethodStart" : 77,
+    "class jobgen.obfuscation.l3.RearrangeMemberDeclarations" : 11,
+    "class jobgen.obfuscation.util.SwitchToIfFilter" : 1,
+    "class jobgen.obfuscation.l5.IncDecExpanderFilter" : 0,
+    "class jobgen.obfuscation.l5.ReplaceConstantWithVariableFilter" : 122,
+    "class jobgen.obfuscation.l6.ReplaceStaticFieldWithStaticImportFilter" : 18
+  }
+}

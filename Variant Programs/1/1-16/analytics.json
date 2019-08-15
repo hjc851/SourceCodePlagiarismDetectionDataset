@@ -1,0 +1,13 @@
+{
+  "modifications" : {
+    "class jobgen.obfuscation.l3.VariableDeclarationAssignDefaultValue" : 50,
+    "class jobgen.obfuscation.l3.StandardiseVariableDeclarationsAtMethodStart" : 38,
+    "class jobgen.obfuscation.l3.RearrangeMemberDeclarations" : 20,
+    "class jobgen.obfuscation.util.SwitchToIfFilter" : 0,
+    "class jobgen.obfuscation.l5.CombinedAssignmentExpanderFilter" : 9,
+    "class jobgen.obfuscation.l5.IncDecExpanderFilter" : 0,
+    "class jobgen.obfuscation.l5.ReplaceConstantWithVariableFilter" : 131,
+    "class jobgen.obfuscation.l6.ReplaceStaticFieldWithStaticImportFilter" : 29,
+    "class jobgen.obfuscation.l6.AddBracketsToExpressionFilter" : 0
+  }
+}

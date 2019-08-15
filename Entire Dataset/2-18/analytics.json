@@ -1,0 +1,14 @@
+{
+  "modifications" : {
+    "class jobgen.obfuscation.l2.DeclarationTypeNameQualifierDequalifier" : 82,
+    "class jobgen.obfuscation.l3.ChangeAccessModifiers" : 43,
+    "class jobgen.obfuscation.l3.MoveKnownFieldAssignmentToInitialiser" : 0,
+    "class jobgen.obfuscation.l3.DeclareRedundantConstants" : 63,
+    "class jobgen.obfuscation.l3.VariableDeclarationAssignDefaultValue" : 36,
+    "class jobgen.obfuscation.l3.RearrangeMemberDeclarations" : 11,
+    "class jobgen.obfuscation.l4.BlockExtractor" : 19,
+    "class jobgen.obfuscation.l5.ReplaceConstantWithVariableFilter" : 119,
+    "class jobgen.obfuscation.l6.ReplaceStaticMethodWithStaticImportFilter" : 24,
+    "class jobgen.obfuscation.l6.AddBracketsToExpressionFilter" : 0
+  }
+}

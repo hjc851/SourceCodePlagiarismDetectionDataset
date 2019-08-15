@@ -1,0 +1,12 @@
+{
+  "modifications" : {
+    "class jobgen.obfuscation.l3.MoveKnownFieldAssignmentToInitialiser" : 2,
+    "class jobgen.obfuscation.l3.DeclareRedundantConstants" : 86,
+    "class jobgen.obfuscation.l3.VariableDeclarationAssignDefaultValue" : 68,
+    "class jobgen.obfuscation.l3.StandardiseVariableDeclarationsAtMethodStart" : 118,
+    "class jobgen.obfuscation.l4.BlockExtractor" : 20,
+    "class jobgen.obfuscation.l5.IncDecExpanderFilter" : 0,
+    "class jobgen.obfuscation.l6.ReplaceStaticFieldWithStaticImportFilter" : 23,
+    "class jobgen.obfuscation.l6.ReplaceStaticMethodWithStaticImportFilter" : 25
+  }
+}

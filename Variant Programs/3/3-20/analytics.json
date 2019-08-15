@@ -1,0 +1,9 @@
+{
+  "modifications" : {
+    "class jobgen.obfuscation.l3.ChangeAccessModifiers" : 90,
+    "class jobgen.obfuscation.l3.VariableDeclarationAssignDefaultValue" : 67,
+    "class jobgen.obfuscation.l3.RearrangeMemberDeclarations" : 17,
+    "class jobgen.obfuscation.l6.ReplaceStaticFieldWithStaticImportFilter" : 23,
+    "class jobgen.obfuscation.l6.ReplaceStaticMethodWithStaticImportFilter" : 25
+  }
+}
